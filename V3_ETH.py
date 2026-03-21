@@ -70,7 +70,7 @@ BINANCE_SYMBOL   = "ETH/USDT"
 # FEATURE TOGGLES
 # ==============================================================================
 
-ENABLE_BYBIT_TRADING = True
+ENABLE_BYBIT_TRADING = False
 ENABLE_TELEGRAM      = True
 
 LEVERAGE             = 10
